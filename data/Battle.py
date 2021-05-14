@@ -35,8 +35,14 @@ class Battle:
            
     
     def heal(self):
-        self.monster_a["hp"] += 50
-        print(f"{self.monster_a} heals itself.")
+        heal = True
+        if heal:
+            self.monster_a["hp"] += 50
+            print(f"{self.monster_a} heals itself.")
+            heal = False
+        else:
+            self.demage()
+            print(f"{self.monster_a} has healed once, so intead it attacks this time")
                   
     def enemy(self):
         demage = random.randint(15,30)
@@ -56,15 +62,15 @@ class Battle:
         
    def fight(self):
         while self.monster_a["hp"] > 0 and self.monster_b["hp"] > 0:
-            if self.monster_a["hp"] > 50:
+            if self.monster_a["hp"] > 50 and self.monster_b["hp"] > 25:
                 self.demage()
-            elif self.monster_a["hp"] > 25:
+            elif self.monster_a["hp"] > 25 and self.monster_b["hp"] > 25:
                   prob = random.random()
                   if prob < 0.3:
-                  self.heal()
+                      self.heal()
                   else:
-                  self.demage()
-            else:
+                      self.demage()
+           elif self.monster_a["hp"] > 0 and self.monster_b["hp"] > 25:
                 prob = random.random()
                 if prob < 0.3:
                   self.heal()
@@ -72,6 +78,29 @@ class Battle:
                   self.escape()
                 else:
                   self.demage()
+            elif self.monster_a["hp"] > 50 and self.monster_b["hp"] < 25:
+                prob = random.random()
+                  if prob < 0.5:
+                      self.capture()
+                  else:
+                      self.demage()
+            elif self.monster_a["hp"] > 25 and self.monster_b["hp"] < 25:
+                prob = random.random()
+                  if prob < 0.5:
+                      self.capture()
+                  elif prob < 0.8:
+                      self.heal()
+                  else:
+                      self.demage()
+            elif self.monster_a["hp"] > 0 and self.monster_b["hp"] < 25:
+                prob = random.random()
+                  if prob < 0.3:
+                      self.capture()
+                  elif prob < 0.5:
+                      self.heal()
+                  elif prob < 0.8:
+                      self.escape()
+                  else:
+                      self.demage()
             self.enemy()
         self.winner()
-        
