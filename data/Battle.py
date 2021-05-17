@@ -6,7 +6,7 @@ class Battle:
         self.b = monster_b.pick
         self.monster_a = monster_a.monsters[self.a]
         self.monster_b = monster_b.monsters[self.b]
-        heal = True
+        self.healing = True
         
     
         
@@ -37,19 +37,23 @@ class Battle:
            
     
     def heal(self):
-        if heal == True:
+        # PROF: here, it appears that "heal" isn't defined yet. This is likely because
+        # it's not defined as "self.heal" in __init__ and one would need to use
+        # self.heal here to call the property.
+        if self.healing == True:
             self.monster_a["hp"] += 50
             print(f"{self.a} heals itself.")
-            heal = False
+            self.healing = False
         else:
             self.demage()
             print(f"{self.a} has healed once, so intead it attacks this time")
                   
     def enemy(self):
-        demage = random.randint(15,self.monster_b["attack"])
-        self.monster_a["hp"] -= demage
-        print(f"{self.b} attacks {self.a} with {demage} hp")
-
+        if self.monster_a["hp"] and self.monster_b["hp"] > 0:
+            demage = random.randint(15,self.monster_b["attack"])
+            self.monster_a["hp"] -= demage
+            print(f"{self.b} attacks {self.a} with {demage} hp")
+        else: None
         
     
     def escape(self):
