@@ -17,8 +17,8 @@ I have completed my most of my battle part. I have escape, turn, heal, attack sy
 * one
 * too.
 
-In my program, the player's monster's behavior needs to be affected by its hp and enemy's hp. So I find I can only let its behavior directed by its own hp. So that means I can't make it try to capture enemy. Also, since my program is simple, the json you give me contains too much information. Can I just make a directary other than something like that one?
+In my program, the player's monster's behavior needs to be affected by its hp and enemy's hp. So I find I can only let its behavior directed by its own hp. So that means I can't make it try to capture enemy. Also, since my program is simple, the json you give me contains too much information. Can I just make a directary other than something like that one? And another problem comes form the heal system. I want to make the heal skill as a consumption. So you can only heal yourself once. But how can I achieve it? I totally have no idea on it. 
 
 ## Celebrate your successes. What are they?
 
-At first, I thought the behaviors of two monsters are similar, so I wanted to put them into just one function just like what you did. But because I found that they should attack alternately and that player's enemy has more choices, I seperate them. In the matter of my capture system, I success in pushing it in a way that the less hp enemy has, the higher rate you have for capturing.
+At first, I thought the behaviors of two monsters are similar, so I wanted to put them into just one function just like what you did. But because I found that they should attack alternately and that player's enemy has more choices, I seperate them. In the matter of my capture system, I success in pushing it in a way that the less hp enemy has, the higher rate you have for capturing. Those are successes that I thought I couldn't complete myself. But the fact is I really make it myself. Computational science is really challenging!

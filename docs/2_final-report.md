@@ -1,14 +1,14 @@
 # Course project final report
 
-`TODO: Your name here`
+Yanqiao Chen
 
 ## Final title
 
-`TODO`
+Pokemon simple battle 
 
 ## If you used any data sources, what were they and why?
 
-`TODO`
+
 
 ## How did the final project end up? Were you able to achieve your ideal (or close to it)?
 
