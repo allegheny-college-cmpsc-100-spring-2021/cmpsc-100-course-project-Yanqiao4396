@@ -1,0 +1,893 @@
+yanqiao4396@jupyter-cs-allegheny-edu:~$ cd cmpsc-100-
+bash: cd: cmpsc-100-: No such file or directory
+yanqiao4396@jupyter-cs-allegheny-edu:~$ cd cmpsc-100-course-project-Yanqiao4396/
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396$ cd data/
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Charmander attacks Squirtle with 25 hp
+Squirtle attacks Charmander with 24 hp
+Charmander attacks Squirtle with 17 hp
+Squirtle attacks Charmander with 23 hp
+Charmander attacks Squirtle with 25 hp
+Squirtle attacks Charmander with 25 hp
+Charmander attacks Squirtle with 21 hp
+Squirtle attacks Charmander with 29 hp
+Charmander heals itself.
+Squirtle attacks Charmander with 28 hp
+Charmander tries to capture Squirtle..... it succeeds. The battle ends
+Charmander wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Squirtle attacks Charmander with 27 hp
+Charmander attacks Squirtle with 25 hp
+Squirtle attacks Charmander with 29 hp
+Charmander attacks Squirtle with 16 hp
+Squirtle attacks Charmander with 24 hp
+Charmander attacks Squirtle with 22 hp
+Squirtle heals itself.
+Charmander attacks Squirtle with 21 hp
+Squirtle attacks Charmander with 17 hp
+Charmander attacks Squirtle with 20 hp
+Squirtle attacks Charmander with 23 hp
+Squirtle has healed once, so intead it attacks this time
+Squirtle wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Charmander attacks Bulbasaur with 22 hp
+Bulbasaur attacks Charmander with 30 hp
+Charmander attacks Bulbasaur with 16 hp
+Bulbasaur attacks Charmander with 20 hp
+Charmander attacks Bulbasaur with 16 hp
+Bulbasaur attacks Charmander with 29 hp
+Charmander heals itself.
+Bulbasaur attacks Charmander with 20 hp
+Charmander attacks Bulbasaur with 22 hp
+Bulbasaur attacks Charmander with 22 hp
+Charmander tries to capture Bulbasaur..... it succeeds. The battle ends
+Charmander wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Squirtle attacks Bulbasaur with 29 hp
+Bulbasaur attacks Squirtle with 34 hp
+Squirtle attacks Bulbasaur with 15 hp
+Bulbasaur attacks Squirtle with 16 hp
+Squirtle heals itself.
+Bulbasaur attacks Squirtle with 21 hp
+Squirtle attacks Bulbasaur with 17 hp
+Bulbasaur attacks Squirtle with 27 hp
+Squirtle attacks Bulbasaur with 23 hp
+Bulbasaur attacks Squirtle with 29 hp
+Squirtle attacks Bulbasaur with 22 hp
+Squirtle has healed once, so intead it attacks this time
+Squirtle wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ 
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Squirtle attacks Charmander with 28 hp
+Charmander attacks Squirtle with 15 hp
+Squirtle attacks Charmander with 16 hp
+Charmander attacks Squirtle with 21 hp
+Squirtle attacks Charmander with 30 hp
+Charmander attacks Squirtle with 22 hp
+Squirtle heals itself.
+Charmander attacks Squirtle with 19 hp
+Squirtle attacks Charmander with 17 hp
+Charmander attacks Squirtle with 21 hp
+Squirtle attacks Charmander with 27 hp
+Charmander attacks Squirtle with 21 hp
+Squirtle tries to capture Charmander..... it succeeds. The battle ends
+Squirtle wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Charmander attacks Bulbasaur with 19 hp
+Bulbasaur attacks Charmander with 21 hp
+Charmander attacks Bulbasaur with 15 hp
+Bulbasaur attacks Charmander with 28 hp
+Charmander attacks Bulbasaur with 23 hp
+Bulbasaur attacks Charmander with 22 hp
+Charmander attacks Bulbasaur with 19 hp
+Bulbasaur attacks Charmander with 33 hp
+Charmander tries to escape but it fails
+Bulbasaur attacks Charmander with 28 hp
+Bulbasaur wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Bulbasaur attacks Squirtle with 31 hp
+Squirtle attacks Bulbasaur with 28 hp
+Bulbasaur attacks Squirtle with 17 hp
+Squirtle attacks Bulbasaur with 30 hp
+Bulbasaur attacks Squirtle with 19 hp
+Squirtle attacks Bulbasaur with 28 hp
+Bulbasaur heals itself.
+Squirtle attacks Bulbasaur with 29 hp
+Bulbasaur runs
+Squirtle attacks Bulbasaur with 29 hp
+Squirtle wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Bulbasaur attacks Charmander with 15 hp
+Charmander attacks Bulbasaur with 21 hp
+Bulbasaur attacks Charmander with 16 hp
+Charmander attacks Bulbasaur with 24 hp
+Bulbasaur attacks Charmander with 35 hp
+Charmander attacks Bulbasaur with 23 hp
+Bulbasaur attacks Charmander with 30 hp
+Charmander attacks Bulbasaur with 25 hp
+Charmander wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Squirtle attacks Bulbasaur with 19 hp
+Bulbasaur attacks Squirtle with 35 hp
+Squirtle attacks Bulbasaur with 18 hp
+Bulbasaur attacks Squirtle with 24 hp
+Squirtle attacks Bulbasaur with 30 hp
+Bulbasaur attacks Squirtle with 20 hp
+Squirtle heals itself.
+Bulbasaur attacks Squirtle with 24 hp
+Squirtle attacks Bulbasaur with 29 hp
+Squirtle wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Bulbasaur attacks Charmander with 19 hp
+Charmander attacks Bulbasaur with 20 hp
+Bulbasaur attacks Charmander with 33 hp
+Charmander attacks Bulbasaur with 16 hp
+Bulbasaur attacks Charmander with 17 hp
+Charmander attacks Bulbasaur with 17 hp
+Bulbasaur attacks Charmander with 26 hp
+Charmander attacks Bulbasaur with 23 hp
+Charmander attacks Bulbasaur with 25 hp
+Charmander wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Bulbasaur attacks Squirtle with 20 hp
+Squirtle attacks Bulbasaur with 15 hp
+Bulbasaur attacks Squirtle with 16 hp
+Squirtle attacks Bulbasaur with 15 hp
+Bulbasaur attacks Squirtle with 18 hp
+Squirtle attacks Bulbasaur with 29 hp
+Bulbasaur attacks Squirtle with 31 hp
+Squirtle attacks Bulbasaur with 30 hp
+Bulbasaur attacks Squirtle with 32 hp
+Bulbasaur wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Squirtle attacks Bulbasaur with 25 hp
+Bulbasaur attacks Squirtle with 29 hp
+Squirtle attacks Bulbasaur with 23 hp
+Bulbasaur attacks Squirtle with 35 hp
+Squirtle attacks Bulbasaur with 30 hp
+Bulbasaur attacks Squirtle with 16 hp
+Squirtle runs
+Bulbasaur attacks Squirtle with 21 hp
+Bulbasaur wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Bulbasaur attacks Squirtle with 28 hp
+Squirtle attacks Bulbasaur with 29 hp
+Bulbasaur attacks Squirtle with 31 hp
+Squirtle attacks Bulbasaur with 17 hp
+Bulbasaur heals itself.
+Squirtle attacks Bulbasaur with 24 hp
+Bulbasaur attacks Squirtle with 21 hp
+Squirtle attacks Bulbasaur with 30 hp
+Bulbasaur attacks Squirtle with 15 hp
+Bulbasaur has healed once, so intead it attacks this time
+Squirtle attacks Bulbasaur with 17 hp
+Bulbasaur tries to escape but it fails
+Squirtle attacks Bulbasaur with 27 hp
+Squirtle wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Squirtle attacks Charmander with 25 hp
+Charmander attacks Squirtle with 15 hp
+Squirtle attacks Charmander with 27 hp
+Charmander attacks Squirtle with 20 hp
+Squirtle attacks Charmander with 17 hp
+Charmander attacks Squirtle with 18 hp
+Squirtle attacks Charmander with 26 hp
+Charmander attacks Squirtle with 22 hp
+Charmander attacks Squirtle with 16 hp
+Charmander attacks Squirtle with 19 hp
+Charmander wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Bulbasaur attacks Squirtle with 26 hp
+Squirtle attacks Bulbasaur with 28 hp
+Bulbasaur attacks Squirtle with 28 hp
+Squirtle attacks Bulbasaur with 18 hp
+Bulbasaur attacks Squirtle with 35 hp
+Squirtle attacks Bulbasaur with 27 hp
+Bulbasaur heals itself.
+Squirtle attacks Bulbasaur with 24 hp
+Bulbasaur tries to capture Squirtle..... it succeeds. The battle ends
+Bulbasaur wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Bulbasaur attacks Charmander with 29 hp
+Charmander attacks Bulbasaur with 23 hp
+Bulbasaur attacks Charmander with 28 hp
+Charmander attacks Bulbasaur with 19 hp
+Bulbasaur attacks Charmander with 35 hp
+Charmander attacks Bulbasaur with 17 hp
+Bulbasaur attacks Charmander with 20 hp
+Charmander attacks Bulbasaur with 25 hp
+Bulbasaur tries to capture Charmander..... it succeeds. The battle ends
+Bulbasaur wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Squirtle attacks Bulbasaur with 22 hp
+Bulbasaur attacks Squirtle with 22 hp
+Squirtle attacks Bulbasaur with 28 hp
+Bulbasaur attacks Squirtle with 30 hp
+Squirtle attacks Bulbasaur with 16 hp
+Bulbasaur attacks Squirtle with 28 hp
+Squirtle heals itself.
+Bulbasaur attacks Squirtle with 23 hp
+Squirtle tries to capture Bulbasaur..... it succeeds. The battle ends
+Squirtle wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Squirtle attacks Bulbasaur with 16 hp
+Bulbasaur attacks Squirtle with 22 hp
+Squirtle attacks Bulbasaur with 15 hp
+Bulbasaur attacks Squirtle with 26 hp
+Squirtle attacks Bulbasaur with 24 hp
+Bulbasaur attacks Squirtle with 30 hp
+Squirtle attacks Bulbasaur with 27 hp
+Bulbasaur attacks Squirtle with 20 hp
+Squirtle tries to capture Bulbasaur..... it succeeds. The battle ends
+Squirtle wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Squirtle attacks Bulbasaur with 26 hp
+Bulbasaur attacks Squirtle with 15 hp
+Squirtle attacks Bulbasaur with 25 hp
+Bulbasaur attacks Squirtle with 30 hp
+Squirtle attacks Bulbasaur with 30 hp
+Bulbasaur attacks Squirtle with 31 hp
+Squirtle heals itself.
+Bulbasaur attacks Squirtle with 29 hp
+Squirtle attacks Bulbasaur with 29 hp
+Squirtle has healed once, so intead it attacks this time
+Squirtle wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Charmander attacks Bulbasaur with 19 hp
+Bulbasaur attacks Charmander with 23 hp
+Charmander attacks Bulbasaur with 22 hp
+Bulbasaur attacks Charmander with 29 hp
+Charmander attacks Bulbasaur with 16 hp
+Bulbasaur attacks Charmander with 35 hp
+Charmander attacks Bulbasaur with 20 hp
+Bulbasaur attacks Charmander with 17 hp
+Charmander tries to capture Bulbasaur..... it succeeds. The battle ends
+Charmander wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Charmander attacks Bulbasaur with 21 hp
+Bulbasaur attacks Charmander with 20 hp
+Charmander attacks Bulbasaur with 24 hp
+Bulbasaur attacks Charmander with 33 hp
+Charmander attacks Bulbasaur with 19 hp
+Bulbasaur attacks Charmander with 15 hp
+Charmander attacks Bulbasaur with 21 hp
+Bulbasaur attacks Charmander with 23 hp
+Charmander heals itself.
+Bulbasaur attacks Charmander with 26 hp
+Charmander tries to capture Bulbasaur..... it succeeds. The battle ends
+Charmander wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Charmander attacks Squirtle with 23 hp
+Squirtle attacks Charmander with 28 hp
+Charmander attacks Squirtle with 17 hp
+Squirtle attacks Charmander with 20 hp
+Charmander attacks Squirtle with 16 hp
+Squirtle attacks Charmander with 27 hp
+Charmander attacks Squirtle with 16 hp
+Squirtle attacks Charmander with 26 hp
+Charmander attacks Squirtle with 16 hp
+Squirtle attacks Charmander with 27 hp
+Squirtle wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Charmander attacks Squirtle with 24 hp
+Squirtle attacks Charmander with 29 hp
+Charmander attacks Squirtle with 15 hp
+Squirtle attacks Charmander with 17 hp
+Charmander attacks Squirtle with 17 hp
+Squirtle attacks Charmander with 23 hp
+Charmander attacks Squirtle with 16 hp
+Squirtle attacks Charmander with 16 hp
+Charmander heals itself.
+Squirtle attacks Charmander with 25 hp
+Charmander attacks Squirtle with 19 hp
+Squirtle attacks Charmander with 22 hp
+Charmander tries to capture Squirtle..... it succeeds. The battle ends
+Charmander wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Charmander attacks Bulbasaur with 20 hp
+Bulbasaur attacks Charmander with 30 hp
+Charmander attacks Bulbasaur with 15 hp
+Bulbasaur attacks Charmander with 21 hp
+Charmander attacks Bulbasaur with 15 hp
+Bulbasaur attacks Charmander with 23 hp
+Charmander attacks Bulbasaur with 18 hp
+Bulbasaur attacks Charmander with 30 hp
+Charmander attacks Bulbasaur with 16 hp
+Bulbasaur attacks Charmander with 20 hp
+Bulbasaur wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Squirtle attacks Charmander with 16 hp
+Charmander attacks Squirtle with 16 hp
+Squirtle attacks Charmander with 24 hp
+Charmander attacks Squirtle with 21 hp
+Squirtle attacks Charmander with 23 hp
+Charmander attacks Squirtle with 16 hp
+Squirtle attacks Charmander with 16 hp
+Charmander attacks Squirtle with 24 hp
+Squirtle heals itself.
+Charmander attacks Squirtle with 18 hp
+Squirtle attacks Charmander with 18 hp
+Charmander attacks Squirtle with 16 hp
+Squirtle attacks Charmander with 28 hp
+Squirtle has healed once, so intead it attacks this time
+Squirtle wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Bulbasaur attacks Squirtle with 34 hp
+Squirtle attacks Bulbasaur with 16 hp
+Bulbasaur attacks Squirtle with 26 hp
+Squirtle attacks Bulbasaur with 26 hp
+Bulbasaur attacks Squirtle with 22 hp
+Squirtle attacks Bulbasaur with 21 hp
+Bulbasaur attacks Squirtle with 30 hp
+Bulbasaur wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Squirtle attacks Bulbasaur with 30 hp
+Bulbasaur attacks Squirtle with 32 hp
+Squirtle attacks Bulbasaur with 26 hp
+Bulbasaur attacks Squirtle with 26 hp
+Squirtle heals itself.
+Bulbasaur attacks Squirtle with 28 hp
+Squirtle attacks Bulbasaur with 27 hp
+Bulbasaur attacks Squirtle with 31 hp
+Squirtle tries to capture Bulbasaur..... it succeeds. The battle ends
+Squirtle wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Squirtle attacks Bulbasaur with 26 hp
+Bulbasaur attacks Squirtle with 26 hp
+Squirtle attacks Bulbasaur with 18 hp
+Bulbasaur attacks Squirtle with 26 hp
+Squirtle heals itself.
+Bulbasaur attacks Squirtle with 21 hp
+Squirtle attacks Bulbasaur with 18 hp
+Bulbasaur attacks Squirtle with 25 hp
+Squirtle attacks Bulbasaur with 17 hp
+Bulbasaur attacks Squirtle with 19 hp
+Squirtle attacks Bulbasaur with 21 hp
+Squirtle wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Squirtle attacks Charmander with 15 hp
+Charmander attacks Squirtle with 16 hp
+Squirtle attacks Charmander with 21 hp
+Charmander attacks Squirtle with 21 hp
+Squirtle attacks Charmander with 24 hp
+Charmander attacks Squirtle with 19 hp
+Squirtle attacks Charmander with 21 hp
+Charmander attacks Squirtle with 17 hp
+Squirtle heals itself.
+Charmander attacks Squirtle with 25 hp
+Squirtle attacks Charmander with 25 hp
+Charmander attacks Squirtle with 20 hp
+Squirtle tries to capture Charmander..... it succeeds. The battle ends
+Squirtle wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Charmander attacks Squirtle with 18 hp
+Squirtle attacks Charmander with 28 hp
+Charmander attacks Squirtle with 24 hp
+Squirtle attacks Charmander with 19 hp
+Charmander attacks Squirtle with 24 hp
+Squirtle attacks Charmander with 22 hp
+Charmander attacks Squirtle with 18 hp
+Squirtle attacks Charmander with 22 hp
+Charmander attacks Squirtle with 21 hp
+Charmander wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Squirtle attacks Charmander with 24 hp
+Charmander attacks Squirtle with 17 hp
+Squirtle attacks Charmander with 28 hp
+Charmander attacks Squirtle with 20 hp
+Squirtle attacks Charmander with 21 hp
+Charmander attacks Squirtle with 18 hp
+Squirtle attacks Charmander with 22 hp
+Charmander attacks Squirtle with 15 hp
+Charmander attacks Squirtle with 17 hp
+Charmander attacks Squirtle with 24 hp
+Charmander wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Bulbasaur attacks Squirtle with 31 hp
+Squirtle attacks Bulbasaur with 21 hp
+Bulbasaur attacks Squirtle with 19 hp
+Squirtle attacks Bulbasaur with 27 hp
+Bulbasaur heals itself.
+Squirtle attacks Bulbasaur with 19 hp
+Bulbasaur attacks Squirtle with 20 hp
+Squirtle attacks Bulbasaur with 21 hp
+Bulbasaur attacks Squirtle with 16 hp
+Squirtle attacks Bulbasaur with 29 hp
+Bulbasaur tries to escape but it fails
+Squirtle attacks Bulbasaur with 27 hp
+Squirtle wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Squirtle attacks Charmander with 21 hp
+Charmander attacks Squirtle with 24 hp
+Squirtle attacks Charmander with 29 hp
+Charmander attacks Squirtle with 24 hp
+Squirtle attacks Charmander with 27 hp
+Charmander attacks Squirtle with 22 hp
+Squirtle attacks Charmander with 16 hp
+Charmander attacks Squirtle with 25 hp
+Squirtle attacks Charmander with 18 hp
+Charmander attacks Squirtle with 24 hp
+Charmander wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Squirtle attacks Charmander with 26 hp
+Charmander attacks Squirtle with 22 hp
+Squirtle attacks Charmander with 21 hp
+Charmander attacks Squirtle with 16 hp
+Squirtle attacks Charmander with 29 hp
+Charmander attacks Squirtle with 22 hp
+Squirtle heals itself.
+Charmander attacks Squirtle with 24 hp
+Squirtle attacks Charmander with 30 hp
+Charmander attacks Squirtle with 20 hp
+Squirtle tries to capture Charmander..... it succeeds. The battle ends
+Squirtle wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Charmander attacks Bulbasaur with 23 hp
+Bulbasaur attacks Charmander with 20 hp
+Charmander attacks Bulbasaur with 20 hp
+Bulbasaur attacks Charmander with 22 hp
+Charmander attacks Bulbasaur with 21 hp
+Bulbasaur attacks Charmander with 34 hp
+Charmander attacks Bulbasaur with 16 hp
+Bulbasaur attacks Charmander with 29 hp
+Charmander attacks Bulbasaur with 18 hp
+Charmander wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Charmander attacks Squirtle with 18 hp
+Squirtle attacks Charmander with 18 hp
+Charmander attacks Squirtle with 15 hp
+Squirtle attacks Charmander with 29 hp
+Charmander attacks Squirtle with 17 hp
+Squirtle attacks Charmander with 21 hp
+Charmander attacks Squirtle with 24 hp
+Squirtle attacks Charmander with 28 hp
+Charmander heals itself.
+Squirtle attacks Charmander with 28 hp
+Charmander attacks Squirtle with 19 hp
+Squirtle attacks Charmander with 17 hp
+Charmander attacks Squirtle with 17 hp
+Charmander wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Bulbasaur attacks Squirtle with 22 hp
+Squirtle attacks Bulbasaur with 25 hp
+Bulbasaur attacks Squirtle with 21 hp
+Squirtle attacks Bulbasaur with 25 hp
+Bulbasaur attacks Squirtle with 29 hp
+Squirtle attacks Bulbasaur with 25 hp
+Bulbasaur tries to escape but it fails
+Squirtle attacks Bulbasaur with 29 hp
+Squirtle wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Charmander attacks Bulbasaur with 22 hp
+Bulbasaur attacks Charmander with 32 hp
+Charmander attacks Bulbasaur with 19 hp
+Bulbasaur attacks Charmander with 19 hp
+Charmander attacks Bulbasaur with 21 hp
+Bulbasaur attacks Charmander with 28 hp
+Charmander attacks Bulbasaur with 16 hp
+Bulbasaur attacks Charmander with 22 hp
+Charmander tries to capture Bulbasaur..... it succeeds. The battle ends
+Charmander wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Charmander attacks Bulbasaur with 19 hp
+Bulbasaur attacks Charmander with 33 hp
+Charmander attacks Bulbasaur with 20 hp
+Bulbasaur attacks Charmander with 25 hp
+Charmander attacks Bulbasaur with 22 hp
+Bulbasaur attacks Charmander with 33 hp
+Charmander attacks Bulbasaur with 19 hp
+Bulbasaur attacks Charmander with 30 hp
+Bulbasaur wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Charmander attacks Bulbasaur with 25 hp
+Bulbasaur attacks Charmander with 29 hp
+Charmander attacks Bulbasaur with 22 hp
+Bulbasaur attacks Charmander with 26 hp
+Charmander attacks Bulbasaur with 17 hp
+Bulbasaur attacks Charmander with 29 hp
+Charmander heals itself.
+Bulbasaur attacks Charmander with 34 hp
+Charmander attacks Bulbasaur with 22 hp
+Bulbasaur attacks Charmander with 16 hp
+Charmander tries to capture Bulbasaur..... it succeeds. The battle ends
+Charmander wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Squirtle attacks Charmander with 19 hp
+Charmander attacks Squirtle with 18 hp
+Squirtle attacks Charmander with 28 hp
+Charmander attacks Squirtle with 21 hp
+Squirtle attacks Charmander with 22 hp
+Charmander attacks Squirtle with 23 hp
+Squirtle attacks Charmander with 25 hp
+Charmander attacks Squirtle with 25 hp
+Squirtle attacks Charmander with 20 hp
+Charmander attacks Squirtle with 19 hp
+Charmander wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Charmander attacks Bulbasaur with 17 hp
+Bulbasaur attacks Charmander with 19 hp
+Charmander attacks Bulbasaur with 17 hp
+Bulbasaur attacks Charmander with 22 hp
+Charmander attacks Bulbasaur with 24 hp
+Bulbasaur attacks Charmander with 17 hp
+Charmander attacks Bulbasaur with 15 hp
+Bulbasaur attacks Charmander with 17 hp
+Charmander heals itself.
+Bulbasaur attacks Charmander with 34 hp
+Charmander tries to capture Bulbasaur, but it fails
+Bulbasaur attacks Charmander with 19 hp
+Charmander attacks Bulbasaur with 15 hp
+Charmander has healed once, so intead it attacks this time
+Bulbasaur attacks Charmander with 29 hp
+Charmander tries to escape but it fails
+Bulbasaur attacks Charmander with 31 hp
+Bulbasaur wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Bulbasaur attacks Charmander with 30 hp
+Charmander attacks Bulbasaur with 19 hp
+Bulbasaur attacks Charmander with 18 hp
+Charmander attacks Bulbasaur with 24 hp
+Bulbasaur heals itself.
+Charmander attacks Bulbasaur with 24 hp
+Bulbasaur attacks Charmander with 23 hp
+Charmander attacks Bulbasaur with 17 hp
+Bulbasaur attacks Charmander with 18 hp
+Charmander attacks Bulbasaur with 19 hp
+Bulbasaur attacks Charmander with 23 hp
+Bulbasaur has healed once, so intead it attacks this time
+Charmander attacks Bulbasaur with 23 hp
+Bulbasaur runs
+Charmander attacks Bulbasaur with 21 hp
+Charmander wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Squirtle attacks Charmander with 29 hp
+Charmander attacks Squirtle with 15 hp
+Squirtle attacks Charmander with 24 hp
+Charmander attacks Squirtle with 19 hp
+Squirtle attacks Charmander with 20 hp
+Charmander attacks Squirtle with 22 hp
+Squirtle heals itself.
+Charmander attacks Squirtle with 25 hp
+Squirtle attacks Charmander with 24 hp
+Charmander attacks Squirtle with 20 hp
+Squirtle tries to capture Charmander..... it succeeds. The battle ends
+Squirtle wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Charmander attacks Bulbasaur with 22 hp
+Bulbasaur attacks Charmander with 30 hp
+Charmander attacks Bulbasaur with 18 hp
+Bulbasaur attacks Charmander with 32 hp
+Charmander attacks Bulbasaur with 21 hp
+Bulbasaur attacks Charmander with 30 hp
+Charmander heals itself.
+Bulbasaur attacks Charmander with 26 hp
+Charmander attacks Bulbasaur with 17 hp
+Bulbasaur attacks Charmander with 21 hp
+Charmander attacks Bulbasaur with 23 hp
+Charmander has healed once, so intead it attacks this time
+Charmander wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Bulbasaur attacks Charmander with 23 hp
+Charmander attacks Bulbasaur with 25 hp
+Bulbasaur attacks Charmander with 20 hp
+Charmander attacks Bulbasaur with 15 hp
+Bulbasaur heals itself.
+Charmander attacks Bulbasaur with 23 hp
+Bulbasaur attacks Charmander with 31 hp
+Charmander attacks Bulbasaur with 23 hp
+Bulbasaur attacks Charmander with 18 hp
+Charmander attacks Bulbasaur with 18 hp
+Bulbasaur attacks Charmander with 17 hp
+Charmander attacks Bulbasaur with 16 hp
+Bulbasaur attacks Charmander with 19 hp
+Bulbasaur has healed once, so intead it attacks this time
+Bulbasaur wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Bulbasaur attacks Charmander with 34 hp
+Charmander attacks Bulbasaur with 20 hp
+Bulbasaur attacks Charmander with 19 hp
+Charmander attacks Bulbasaur with 24 hp
+Bulbasaur attacks Charmander with 23 hp
+Charmander attacks Bulbasaur with 24 hp
+Bulbasaur attacks Charmander with 15 hp
+Charmander attacks Bulbasaur with 23 hp
+Charmander wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Bulbasaur attacks Squirtle with 19 hp
+Squirtle attacks Bulbasaur with 23 hp
+Bulbasaur attacks Squirtle with 17 hp
+Squirtle attacks Bulbasaur with 23 hp
+Bulbasaur heals itself.
+Squirtle attacks Bulbasaur with 21 hp
+Bulbasaur attacks Squirtle with 23 hp
+Squirtle attacks Bulbasaur with 27 hp
+Bulbasaur attacks Squirtle with 29 hp
+Squirtle attacks Bulbasaur with 27 hp
+Bulbasaur tries to escape but it fails
+Squirtle attacks Bulbasaur with 23 hp
+Squirtle wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Charmander attacks Squirtle with 23 hp
+Squirtle attacks Charmander with 18 hp
+Charmander attacks Squirtle with 25 hp
+Squirtle attacks Charmander with 23 hp
+Charmander attacks Squirtle with 15 hp
+Squirtle attacks Charmander with 21 hp
+Charmander attacks Squirtle with 23 hp
+Squirtle attacks Charmander with 21 hp
+Charmander heals itself.
+Squirtle attacks Charmander with 27 hp
+Charmander attacks Squirtle with 25 hp
+Charmander wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Bulbasaur attacks Squirtle with 34 hp
+Squirtle attacks Bulbasaur with 25 hp
+Bulbasaur attacks Squirtle with 29 hp
+Squirtle attacks Bulbasaur with 18 hp
+Bulbasaur heals itself.
+Squirtle attacks Bulbasaur with 21 hp
+Bulbasaur attacks Squirtle with 34 hp
+Squirtle attacks Bulbasaur with 18 hp
+Bulbasaur tries to capture Squirtle, but it fails
+Squirtle attacks Bulbasaur with 17 hp
+Bulbasaur attacks Squirtle with 21 hp
+Bulbasaur wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Charmander attacks Bulbasaur with 19 hp
+Bulbasaur attacks Charmander with 35 hp
+Charmander attacks Bulbasaur with 22 hp
+Bulbasaur attacks Charmander with 29 hp
+Charmander attacks Bulbasaur with 18 hp
+Bulbasaur attacks Charmander with 27 hp
+Charmander attacks Bulbasaur with 25 hp
+Bulbasaur attacks Charmander with 18 hp
+Charmander attacks Bulbasaur with 20 hp
+Charmander wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Charmander attacks Bulbasaur with 22 hp
+Bulbasaur attacks Charmander with 20 hp
+Charmander attacks Bulbasaur with 24 hp
+Bulbasaur attacks Charmander with 15 hp
+Charmander attacks Bulbasaur with 19 hp
+Bulbasaur attacks Charmander with 29 hp
+Bulbasaur attacks Charmander with 22 hp
+Bulbasaur attacks Charmander with 30 hp
+Bulbasaur attacks Charmander with 29 hp
+Bulbasaur wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Charmander attacks Bulbasaur with 22 hp
+Bulbasaur attacks Charmander with 23 hp
+Charmander attacks Bulbasaur with 20 hp
+Bulbasaur attacks Charmander with 27 hp
+Charmander attacks Bulbasaur with 16 hp
+Bulbasaur attacks Charmander with 20 hp
+Charmander heals itself.
+Bulbasaur attacks Charmander with 17 hp
+Charmander attacks Bulbasaur with 17 hp
+Bulbasaur attacks Charmander with 23 hp
+Charmander tries to capture Bulbasaur, but it fails
+Bulbasaur attacks Charmander with 16 hp
+Charmander attacks Bulbasaur with 21 hp
+Charmander has healed once, so intead it attacks this time
+Charmander wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Charmander attacks Bulbasaur with 23 hp
+Bulbasaur attacks Charmander with 23 hp
+Charmander attacks Bulbasaur with 16 hp
+Bulbasaur attacks Charmander with 15 hp
+Charmander attacks Bulbasaur with 17 hp
+Bulbasaur attacks Charmander with 15 hp
+Charmander attacks Bulbasaur with 25 hp
+Bulbasaur attacks Charmander with 33 hp
+Charmander tries to capture Bulbasaur, but it fails
+Bulbasaur attacks Charmander with 18 hp
+Charmander tries to capture Bulbasaur, but it fails
+Bulbasaur attacks Charmander with 15 hp
+Charmander tries to escape but it fails
+Bulbasaur attacks Charmander with 29 hp
+Bulbasaur wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Bulbasaur attacks Squirtle with 20 hp
+Squirtle attacks Bulbasaur with 26 hp
+Bulbasaur attacks Squirtle with 29 hp
+Squirtle attacks Bulbasaur with 24 hp
+Bulbasaur attacks Squirtle with 27 hp
+Squirtle attacks Bulbasaur with 26 hp
+Bulbasaur tries to capture Squirtle..... it succeeds. The battle ends
+Bulbasaur wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Bulbasaur attacks Squirtle with 24 hp
+Squirtle attacks Bulbasaur with 26 hp
+Bulbasaur attacks Squirtle with 25 hp
+Squirtle attacks Bulbasaur with 21 hp
+Bulbasaur attacks Squirtle with 15 hp
+Squirtle attacks Bulbasaur with 20 hp
+Bulbasaur attacks Squirtle with 29 hp
+Squirtle attacks Bulbasaur with 23 hp
+Squirtle wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Squirtle attacks Bulbasaur with 20 hp
+Bulbasaur attacks Squirtle with 25 hp
+Squirtle attacks Bulbasaur with 26 hp
+Bulbasaur attacks Squirtle with 27 hp
+Squirtle heals itself.
+Bulbasaur attacks Squirtle with 32 hp
+Squirtle attacks Bulbasaur with 18 hp
+Bulbasaur attacks Squirtle with 20 hp
+Squirtle attacks Bulbasaur with 16 hp
+Bulbasaur attacks Squirtle with 23 hp
+Squirtle tries to escape but it fails
+Bulbasaur attacks Squirtle with 17 hp
+Squirtle attacks Bulbasaur with 16 hp
+Squirtle wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Charmander attacks Bulbasaur with 23 hp
+Bulbasaur attacks Charmander with 20 hp
+Charmander attacks Bulbasaur with 23 hp
+Bulbasaur attacks Charmander with 31 hp
+Charmander attacks Bulbasaur with 23 hp
+Bulbasaur attacks Charmander with 21 hp
+Charmander tries to capture Bulbasaur, but it fails
+Bulbasaur attacks Charmander with 34 hp
+Charmander attacks Bulbasaur with 15 hp
+Bulbasaur attacks Charmander with 24 hp
+Bulbasaur wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Charmander attacks Squirtle with 21 hp
+Squirtle attacks Charmander with 28 hp
+Charmander attacks Squirtle with 23 hp
+Squirtle attacks Charmander with 20 hp
+Charmander attacks Squirtle with 15 hp
+Squirtle attacks Charmander with 22 hp
+Charmander attacks Squirtle with 17 hp
+Squirtle attacks Charmander with 15 hp
+Charmander heals itself.
+Squirtle attacks Charmander with 29 hp
+Charmander tries to capture Squirtle..... it succeeds. The battle ends
+Charmander wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Bulbasaur attacks Squirtle with 16 hp
+Squirtle attacks Bulbasaur with 16 hp
+Bulbasaur attacks Squirtle with 33 hp
+Squirtle attacks Bulbasaur with 15 hp
+Bulbasaur attacks Squirtle with 32 hp
+Squirtle attacks Bulbasaur with 15 hp
+Bulbasaur tries to capture Squirtle, but it fails
+Squirtle attacks Bulbasaur with 19 hp
+Bulbasaur runs
+Squirtle attacks Bulbasaur with 28 hp
+Squirtle wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Squirtle attacks Charmander with 24 hp
+Charmander attacks Squirtle with 21 hp
+Squirtle attacks Charmander with 27 hp
+Charmander attacks Squirtle with 21 hp
+Squirtle attacks Charmander with 26 hp
+Charmander attacks Squirtle with 17 hp
+Squirtle heals itself.
+Charmander attacks Squirtle with 24 hp
+Squirtle attacks Charmander with 30 hp
+Charmander attacks Squirtle with 21 hp
+Squirtle attacks Charmander with 24 hp
+Squirtle has healed once, so intead it attacks this time
+Squirtle wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Squirtle attacks Bulbasaur with 30 hp
+Bulbasaur attacks Squirtle with 26 hp
+Squirtle attacks Bulbasaur with 16 hp
+Bulbasaur attacks Squirtle with 21 hp
+Squirtle attacks Bulbasaur with 15 hp
+Bulbasaur attacks Squirtle with 27 hp
+Squirtle heals itself.
+Bulbasaur attacks Squirtle with 30 hp
+Squirtle attacks Bulbasaur with 19 hp
+Bulbasaur attacks Squirtle with 19 hp
+Squirtle attacks Bulbasaur with 24 hp
+Squirtle has healed once, so intead it attacks this time
+Squirtle wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Charmander attacks Squirtle with 19 hp
+Squirtle attacks Charmander with 28 hp
+Charmander attacks Squirtle with 20 hp
+Squirtle attacks Charmander with 18 hp
+Charmander attacks Squirtle with 22 hp
+Squirtle attacks Charmander with 23 hp
+Charmander attacks Squirtle with 16 hp
+Squirtle attacks Charmander with 20 hp
+Charmander attacks Squirtle with 18 hp
+Squirtle attacks Charmander with 23 hp
+Charmander tries to capture Squirtle..... it succeeds. The battle ends
+Charmander wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Charmander attacks Squirtle with 18 hp
+Squirtle attacks Charmander with 27 hp
+Charmander attacks Squirtle with 24 hp
+Squirtle attacks Charmander with 21 hp
+Charmander attacks Squirtle with 25 hp
+Squirtle attacks Charmander with 29 hp
+Charmander heals itself.
+Squirtle attacks Charmander with 27 hp
+Charmander attacks Squirtle with 24 hp
+Squirtle attacks Charmander with 30 hp
+Charmander tries to capture Squirtle..... it succeeds. The battle ends
+Charmander wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Charmander attacks Bulbasaur with 20 hp
+Bulbasaur attacks Charmander with 34 hp
+Charmander attacks Bulbasaur with 21 hp
+Bulbasaur attacks Charmander with 18 hp
+Charmander attacks Bulbasaur with 18 hp
+Bulbasaur attacks Charmander with 22 hp
+Charmander attacks Bulbasaur with 25 hp
+Bulbasaur attacks Charmander with 34 hp
+Charmander attacks Bulbasaur with 16 hp
+Charmander wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Squirtle attacks Charmander with 15 hp
+Charmander attacks Squirtle with 18 hp
+Squirtle attacks Charmander with 19 hp
+Charmander attacks Squirtle with 17 hp
+Squirtle attacks Charmander with 29 hp
+Charmander attacks Squirtle with 18 hp
+Squirtle attacks Charmander with 23 hp
+Charmander attacks Squirtle with 20 hp
+Squirtle attacks Charmander with 23 hp
+Charmander attacks Squirtle with 16 hp
+Squirtle heals itself.
+Charmander attacks Squirtle with 20 hp
+Squirtle attacks Charmander with 28 hp
+Squirtle has healed once, so intead it attacks this time
+Squirtle wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Bulbasaur attacks Charmander with 26 hp
+Charmander attacks Bulbasaur with 16 hp
+Bulbasaur attacks Charmander with 23 hp
+Charmander attacks Bulbasaur with 18 hp
+Bulbasaur attacks Charmander with 29 hp
+Charmander attacks Bulbasaur with 19 hp
+Bulbasaur attacks Charmander with 28 hp
+Charmander attacks Bulbasaur with 22 hp
+Bulbasaur tries to escape but it fails
+Charmander attacks Bulbasaur with 17 hp
+Charmander wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Charmander attacks Squirtle with 23 hp
+Squirtle attacks Charmander with 18 hp
+Charmander attacks Squirtle with 23 hp
+Squirtle attacks Charmander with 30 hp
+Charmander attacks Squirtle with 22 hp
+Squirtle attacks Charmander with 18 hp
+Charmander attacks Squirtle with 17 hp
+Squirtle attacks Charmander with 25 hp
+Charmander tries to capture Squirtle..... it succeeds. The battle ends
+Charmander wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Bulbasaur attacks Charmander with 33 hp
+Charmander attacks Bulbasaur with 17 hp
+Bulbasaur attacks Charmander with 33 hp
+Charmander attacks Bulbasaur with 22 hp
+Bulbasaur attacks Charmander with 16 hp
+Charmander attacks Bulbasaur with 20 hp
+Bulbasaur heals itself.
+Charmander attacks Bulbasaur with 23 hp
+Bulbasaur attacks Charmander with 35 hp
+Charmander attacks Bulbasaur with 19 hp
+Bulbasaur attacks Charmander with 20 hp
+Bulbasaur has healed once, so intead it attacks this time
+Bulbasaur wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ python3 main.py
+Charmander attacks Bulbasaur with 21 hp
+Bulbasaur attacks Charmander with 23 hp
+Charmander attacks Bulbasaur with 17 hp
+Bulbasaur attacks Charmander with 29 hp
+Charmander attacks Bulbasaur with 19 hp
+Bulbasaur attacks Charmander with 20 hp
+Charmander heals itself.
+Bulbasaur attacks Charmander with 15 hp
+Charmander attacks Bulbasaur with 21 hp
+Bulbasaur attacks Charmander with 15 hp
+Charmander tries to capture Bulbasaur, but it fails
+Bulbasaur attacks Charmander with 31 hp
+Charmander tries to capture Bulbasaur..... it succeeds. The battle ends
+Charmander wins!
+yanqiao4396@jupyter-cs-allegheny-edu:~/cmpsc-100-course-project-Yanqiao4396/data$ 
